@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BirthdayRemaindermg/static/css/main.5c921d41.css",
+    "main.js": "/BirthdayRemaindermg/static/js/main.83c1d22f.js",
+    "static/js/787.ec704a7a.chunk.js": "/BirthdayRemaindermg/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/BirthdayRemaindermg/index.html",
+    "main.5c921d41.css.map": "/BirthdayRemaindermg/static/css/main.5c921d41.css.map",
+    "main.83c1d22f.js.map": "/BirthdayRemaindermg/static/js/main.83c1d22f.js.map",
+    "787.ec704a7a.chunk.js.map": "/BirthdayRemaindermg/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c921d41.css",
+    "static/js/main.83c1d22f.js"
+  ]
+}
